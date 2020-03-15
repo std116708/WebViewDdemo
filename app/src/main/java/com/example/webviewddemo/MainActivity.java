@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-    public static final String weburl = "https://std116708.github.io/leafletMapV2.1/"; //Default Android URL for Local Host --> http://10.0.2.2::5501
+    public static final String weburl = "https://std116708.github.io/leafletMapV2/"; //Default Android URL for Local Host --> http://10.0.2.2::5501
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
